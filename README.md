@@ -49,7 +49,7 @@ Each step below corresponds with a real screenshot inside the `screenshots/` fol
 ```markdown
 ## Folder Structure
 
-```bash
+
 /terraform-smart-vault/
 ├── backend.tf
 ├── main.tf
