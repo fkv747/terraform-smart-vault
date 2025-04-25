@@ -70,8 +70,7 @@ Each step below corresponds with a real screenshot inside the `screenshots/` fol
     ├── 2-terraform-apply.png
     ├── ...
     └── smart-vault-diagram.png
-
----
+```
 
 ### 2. Create Backend Resources
 - Provision backend S3 + DynamoDB with Terraform
