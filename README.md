@@ -47,7 +47,7 @@ Each step below corresponds with a real screenshot inside the `screenshots/` fol
 ![backend config](./screenshots/1-backend.tf.png)
 
 ```markdown
-## Folder Structure
+
 
 
 /terraform-smart-vault/
