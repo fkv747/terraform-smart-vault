@@ -8,7 +8,7 @@
 
 > Terraform · AWS · Lambda · EventBridge · SNS · CloudWatch
 
-## Overview
+
 Smart Vault is a serverless, infrastructure-as-code solution that automates EBS snapshot creation and cleanup using **AWS Lambda**, **Amazon EventBridge**, **SNS**, and **CloudWatch**, all deployed entirely through **Terraform**. This project showcases modular design, automated scheduling, error alerting, and snapshot retention logic with no manual intervention required.
 
 ---
