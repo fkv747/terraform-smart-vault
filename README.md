@@ -45,7 +45,31 @@ Each step below corresponds with a real screenshot inside the `screenshots/` fol
 - Modular setup inside `modules/`
 
 ![backend config](./screenshots/1-backend.tf.png)
-![folder structure](./screenshots/1-vsc-folder-structure.png)
+
+```markdown
+## Folder Structure
+
+```bash
+/terraform-smart-vault/
+├── backend.tf
+├── main.tf
+├── outputs.tf
+├── providers.tf
+├── variables.tf
+├── .terraform.lock.hcl
+├── .gitignore
+├── README.md
+├── modules/
+│   ├── cloudwatch_logs/
+│   ├── eventbridge_trigger/
+│   ├── lambda_cleanup/
+│   ├── lambda_snapshot/
+│   └── sns_alert/
+└── screenshots/
+    ├── 1-backend.tf.png
+    ├── 2-terraform-apply.png
+    ├── ...
+    └── smart-vault-diagram.png
 
 ### 2. Create Backend Resources
 - Provision backend S3 + DynamoDB with Terraform
