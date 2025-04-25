@@ -16,7 +16,8 @@ Smart Vault is a serverless, infrastructure-as-code solution that automates EBS 
 ## Demo
 
 🎥 **Watch the full demo on YouTube**  
-[![Watch the video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the YouTube demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
 > This walkthrough shows the entire setup and behavior of Smart Vault — including snapshot creation, cleanup, notifications, and scheduling via Terraform.
 
