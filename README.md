@@ -99,7 +99,7 @@ Each step below corresponds with a real screenshot inside the `screenshots/` fol
 - Python code filters for `tag:Backup = True`
 
 ![lambda snapshot code](./screenshots/manual-trigger-lambda-snapshot.png)
-![lambda test](./screenshots/5-Lambda-Test.png)
+
 
 ### 7. Enable CloudWatch Logging
 - Log group auto-created and tracked in Terraform
