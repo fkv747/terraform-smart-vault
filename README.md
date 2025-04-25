@@ -121,8 +121,11 @@ All reusable modules are stored in the `modules/` folder:
 - ⚙️ How to modularize Terraform projects and keep code clean
 - 💡 Keeping logging optional helps reduce clutter and cost
 
-**Next time:** I may add snapshot encryption, SSM parameterization, or CloudTrail tracking for audit compliance.
+It also pushed me to improve how I document and present my work for technical audiences.
+
 
 ---
 
-Built with ❤️ using Terraform and AWS.
+## Connect with Me
+
+📫 [LinkedIn](https://www.linkedin.com/in/franc-kevin-v-07108b111/)
