@@ -16,7 +16,7 @@ Smart Vault is a serverless, infrastructure-as-code solution that automates EBS 
 ## Demo
 
 🎥 **Watch the full demo on YouTube**  
-[Watch the YouTube demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the YouTube demo](https://youtu.be/b8byPDWeNB4)
 
 
 > This walkthrough shows the entire setup and behavior of Smart Vault — including snapshot creation, cleanup, notifications, and scheduling via Terraform.
